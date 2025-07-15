@@ -1,0 +1,14 @@
+# Logs
+log/
+
+# Backup
+backup/
+
+# Config
+config.js
+
+# Dependencies
+node_modules
+
+# Environment variables
+.env
